@@ -5,7 +5,7 @@ public class Application {
     public static void main(String[] args) {
         printPrimesBetweenZeroAndTwenty();
     }
-
+ 
     private static void printPrimesBetweenZeroAndTwenty() {
         for (int i = 0; i < 20; i++){
             if (isPrime(i))
