@@ -20,7 +20,7 @@ public class Application {
         for (int i = 2; i <= potentialPrimeNumber; i++) {
             if (potentialPrimeNumber % i == 0) {
                 return false;
-            }
+   adadawdwaldhawhdoahdoiahwd         }
         }
         return true;
     }
